@@ -6,11 +6,11 @@
       "downloaded_at": "2025-04-04 08:10:47.434067Z",
       "sha": "3da973cdf5e743f572b6d922976c9ff58de93b62"
     },
-    "opensafely-covid-identification.csv": {
-      "id": "opensafely/covid-identification/2020-06-03",
-      "url": "https://www.opencodelists.org/codelist/opensafely/covid-identification/2020-06-03/",
-      "downloaded_at": "2025-04-04 08:10:18.262775Z",
-      "sha": "124db6929439379b7dacd55ba26ae4f2ed9370bc"
+    "nhsd-primary-care-domain-refsets-dem_cod.csv": {
+      "id": "nhsd-primary-care-domain-refsets/dem_cod/20241205",
+      "url": "https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/dem_cod/20241205/",
+      "downloaded_at": "2025-04-04 12:42:50.300724Z",
+      "sha": "88a1a9cd2b73f2825f3e735c03efbba4adbcfc65"
     }
   }
 }

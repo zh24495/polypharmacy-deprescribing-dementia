@@ -1,7 +1,2 @@
-opensafely/covid-identification/2020-06-03/
 bristol/any-dementia-snomed-ct-v14/5dda3a39/
-opensafely/covid-identification/2020-06-03/
 nhsd-primary-care-domain-refsets/dem_cod/20241205/
-nhsd-primary-care-domain-refsets/dem_cod/20241205/
-nhsd-primary-care-domain-refsets/dem_cod/20
-nhsd-primary-care-domain-refsets/dem_cod/20
