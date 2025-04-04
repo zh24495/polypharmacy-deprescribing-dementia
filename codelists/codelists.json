@@ -1,3 +1,16 @@
 {
-  "files": {}
+  "files": {
+    "bristol-any-dementia-snomed-ct-v14.csv": {
+      "id": "bristol/any-dementia-snomed-ct-v14/5dda3a39",
+      "url": "https://www.opencodelists.org/codelist/bristol/any-dementia-snomed-ct-v14/5dda3a39/",
+      "downloaded_at": "2025-04-04 08:10:47.434067Z",
+      "sha": "3da973cdf5e743f572b6d922976c9ff58de93b62"
+    },
+    "opensafely-covid-identification.csv": {
+      "id": "opensafely/covid-identification/2020-06-03",
+      "url": "https://www.opencodelists.org/codelist/opensafely/covid-identification/2020-06-03/",
+      "downloaded_at": "2025-04-04 08:10:18.262775Z",
+      "sha": "124db6929439379b7dacd55ba26ae4f2ed9370bc"
+    }
+  }
 }
